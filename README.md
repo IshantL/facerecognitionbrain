@@ -14,6 +14,8 @@ Demo: will update shortly
   - [npm test](#npm-test)
   - [npm run build](#npm-run-build)
 
+##API Used
+Clarifai
 
 
 ### `npm start`
